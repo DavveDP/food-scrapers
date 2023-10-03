@@ -2,8 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
-Scripts/
-pyvenv.cfg
+
+#venv
+venv/
 
 # C extensions
 *.so
